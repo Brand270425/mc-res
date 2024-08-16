@@ -1,0 +1,5 @@
+
+{ 
+    "custom.troll1": { "category": "master", "sounds": [ "custom/troll1" ] } ,
+    "custom.troll2": { "category": "master", "sounds": [ "custom/troll2" ] } 
+}
